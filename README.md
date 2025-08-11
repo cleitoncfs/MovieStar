@@ -73,7 +73,7 @@ git clone https://github.com/cleitoncfs/MovieStar.git
 3. Importe o banco de dados MySQL:
   - Abra o phpMyAdmin
   - Crie um banco de dados chamado moviestar
-  - Importe o arquivo pizzaria.sql disponível no repositório
+  - Importe o arquivo moviestar.sql disponível no repositório
 
 4. Acesse o projeto via navegador:
    http://localhost/MovieStar
