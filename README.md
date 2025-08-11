@@ -7,7 +7,19 @@
 
 ## 🧾 Descrição
 
-MovieStar é uma aplicação web desenvolvida em PHP que simula uma plataforma de avaliação de filmes. O projeto foi criado como parte do encerramento do módulo de PHP da formação Web Developer, com foco em CRUD, autenticação de usuários e manipulação de banco de dados.
+MovieStar é uma plataforma web de avaliação de filmes desenvolvida em PHP, que permite aos usuários cadastrar-se, criar resenhas, atribuir notas e gerenciar seus próprios títulos favoritos. O sistema simula uma rede social voltada para cinéfilos, com funcionalidades de autenticação, busca por filmes e perfil personalizado.
+
+O projeto foi criado como parte do encerramento do módulo de PHP da Formação Profissional em Web Developer – Master D Portugal, com foco em práticas de CRUD, manipulação de banco de dados e arquitetura orientada a objetos.
+
+---
+
+## 📸 Captura de Tela
+Abaixo está uma prévia da interface da aplicação MovieStar, exibida em um laptop e smartphone:
+
+<img width="1223" height="602" alt="img-projeto-MovieStar" src="https://github.com/user-attachments/assets/9046cfc4-bbdf-43f4-ae72-82055e9e4db4" />
+
+
+Plataforma web de avaliação de filmes desenvolvida em PHP, que permite aos usuários cadastrar-se, criar resenhas, atribuir notas e gerenciar seus próprios títulos favoritos.
 
 ---
 
